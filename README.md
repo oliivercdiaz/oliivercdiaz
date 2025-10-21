@@ -1,60 +1,55 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4FC3F7;">Oliver Corral Díaz</span></h1>
-
-<p align="center">
-  <img src="assets/banner-github-oliver.png" alt="Oliver Corral Díaz banner" width="100%">
-</p>
-
-<p align="center">
-  <b>IT & Network Specialist | ASIR Graduate | Raspberry Pi & Automation Enthusiast</b>
-</p>
+<h1 align="center">Oliver Corral Díaz</h1>
+<h3 align="center">IT & Network Specialist • ASIR Graduate • Automation & Raspberry Pi Projects</h3>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧩 About Me
 
-- 🎓 Graduated in **Administración de Sistemas Informáticos y Redes (ASIR)**.  
-- 🧠 Passionate about **automation, scripting, and networking**.  
-- 🐍 Currently learning **Python**, building tools for Raspberry Pi and IT tasks.  
-- ⚙️ Focused on becoming better at **systems administration + automation** every day.  
-- 🌍 Based in **Barcelona, Spain**.  
+I’m an **IT technician and system administrator (ASIR)** passionate about technology, networks, and automation.  
+I enjoy building small, efficient tools that solve real problems — whether it’s scripting something on a server or monitoring a Raspberry Pi.  
+Learning is what keeps me motivated: every project is a chance to understand systems more deeply.
+
+> 💡 *"If something can be automated, it should be."* — my favorite rule of IT.
 
 ---
 
-## 🛠️ Tech & Tools I Use
+### ⚙️ Technical Skills
 
-| Category | Technologies |
-|-----------|---------------|
-| 💻 **Operating Systems** | Linux (Debian, Ubuntu), Windows Server |
+| Area | Technologies |
+|------|---------------|
+| 💻 **Systems** | Linux (Debian, Ubuntu), Windows Server |
 | 🌐 **Networking** | DNS, DHCP, VMware, Active Directory |
-| 🧰 **Automation & Scripting** | Python, Bash, APIs |
+| 🐍 **Automation & Scripting** | Python, Bash, APIs |
 | 🐳 **Containers** | Docker |
-| 🗄️ **Databases** | MySQL |
-| 🧠 **Other tools** | Git, VS Code, WireGuard, Raspberry Pi |
+| 💾 **Databases** | MySQL |
+| 🔐 **Security / Tools** | WireGuard, Git, VS Code, SSH |
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### 🔹 [Raspberry Monitor Bot](https://github.com/oliivercdiaz/raspberry-monitor-bot)
-> A Telegram bot that shows real-time system stats from your Raspberry Pi — CPU temp, RAM, disk, uptime and more.  
-> Built to combine **Python, automation, and sysadmin knowledge**.
+#### 🧠 [Raspberry Monitor Bot](https://github.com/oliivercdiaz/raspberry-monitor-bot)
+> A Telegram bot that reports real-time stats from a Raspberry Pi — CPU temp, RAM, disk, and uptime.  
+> Combines my sysadmin background with Python automation.
 
-### 🔹 [Raspberry Monitor (CLI)](https://github.com/oliivercdiaz/raspberry-monitor)
-> Lightweight terminal tool for monitoring CPU, RAM, and disk usage on Linux.  
-> Created to learn about **system processes** and `/proc` parsing.
+#### 💻 [Raspberry Monitor (CLI)](https://github.com/oliivercdiaz/raspberry-monitor)
+> A terminal-based monitor for Linux systems using only the Python standard library.  
+> Simple, fast, and dependency-free.
 
-*(More projects coming soon...)*
-
----
-
-## 🧭 What I’m Learning
-- 🔹 Using Python for **automation and IT management**  
-- 🔹 Improving my Linux & server management skills  
-- 🔹 Creating simple but useful projects with **real-world application**  
+*(New projects coming soon — always improving and learning.)*
 
 ---
 
-## 📫 Contact Me
+### 🧭 Focus & Goals
+
+- Strengthening my **Python** and **Linux administration** skills  
+- Creating useful tools that make IT management easier  
+- Expanding knowledge in **networking, security, and automation**  
+- Exploring ways to connect traditional system admin tasks with modern DevOps practices  
+
+---
+
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:9olivercdiaz8@gmail.com"><img src="https://img.shields.io/badge/Email-9olivercdiaz8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,13 +58,16 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliivercdiaz&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliivercdiaz&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliivercdiaz&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ADBAC7" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliivercdiaz&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160">
 </p>
 
 ---
 
-<h4 align="center">🧠 "Every expert was once a beginner." — Helen Hayes</h4>
+<p align="center">
+  <sub>“Technology is best when it brings people together.” — Matt Mullenweg</sub><br>
+  <sub>Built with ❤️ and curiosity by Oliver Corral Díaz</sub>
+</p>
