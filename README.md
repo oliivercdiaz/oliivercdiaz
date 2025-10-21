@@ -1,15 +1,16 @@
 <h1 align="center">Oliver Corral Díaz</h1>
-<h3 align="center">IT & Network Specialist • ASIR Graduate • Automation & Raspberry Pi Projects</h3>
+<h3 align="center">IT & Network Specialist • ASIR Graduate • Automation & Infrastructure Enthusiast</h3>
 
 ---
 
-### 🧩 About Me
+### 💡 About Me
 
 I’m an **IT technician and system administrator (ASIR)** passionate about technology, networks, and automation.  
-I enjoy building small, efficient tools that solve real problems — whether it’s scripting something on a server or monitoring a Raspberry Pi.  
-Learning is what keeps me motivated: every project is a chance to understand systems more deeply.
+I enjoy building and improving systems — from servers and VPNs to Raspberry Pi projects.  
+My goal is to make IT environments more efficient through smart configuration, scripting, and automation.  
+I love learning new things and turning complex tasks into simple, automated solutions.
 
-> 💡 *"If something can be automated, it should be."* — my favorite rule of IT.
+> 💭 *"If something can be automated, it should be."*
 
 ---
 
@@ -17,35 +18,35 @@ Learning is what keeps me motivated: every project is a chance to understand sys
 
 | Area | Technologies |
 |------|---------------|
-| 💻 **Systems** | Linux (Debian, Ubuntu), Windows Server |
+| 💻 **Systems & Servers** | Linux (Debian, Ubuntu), Windows Server |
 | 🌐 **Networking** | DNS, DHCP, VMware, Active Directory |
-| 🐍 **Automation & Scripting** | Python, Bash, APIs |
-| 🐳 **Containers** | Docker |
+| 🧰 **Automation & Scripting** | Python, Bash, APIs |
+| 🧩 **Infrastructure & Virtualization** | Docker, VPNs (WireGuard, OpenVPN, IPsec) |
 | 💾 **Databases** | MySQL |
-| 🔐 **Security / Tools** | WireGuard, Git, VS Code, SSH |
+| 🧠 **Other Skills** | Monitoring, Troubleshooting, Git, Raspberry Pi |
 
 ---
 
 ### 🚀 Projects
 
 #### 🧠 [Raspberry Monitor Bot](https://github.com/oliivercdiaz/raspberry-monitor-bot)
-> A Telegram bot that reports real-time stats from a Raspberry Pi — CPU temp, RAM, disk, and uptime.  
-> Combines my sysadmin background with Python automation.
+> A Telegram bot that reports real-time system stats (CPU, RAM, disk, uptime, and more) from any Linux device.  
+> Combines **Python, automation, and networking** — created to make monitoring servers and Raspberry Pis easier.
 
 #### 💻 [Raspberry Monitor (CLI)](https://github.com/oliivercdiaz/raspberry-monitor)
-> A terminal-based monitor for Linux systems using only the Python standard library.  
-> Simple, fast, and dependency-free.
+> A lightweight terminal tool to check CPU temperature, usage, memory, and uptime.  
+> Built with pure Python — simple, fast, and dependency-free.
 
-*(New projects coming soon — always improving and learning.)*
+*(More projects on the way — I like to experiment, learn, and improve with each one.)*
 
 ---
 
 ### 🧭 Focus & Goals
 
 - Strengthening my **Python** and **Linux administration** skills  
-- Creating useful tools that make IT management easier  
-- Expanding knowledge in **networking, security, and automation**  
-- Exploring ways to connect traditional system admin tasks with modern DevOps practices  
+- Building tools to **automate repetitive IT and network tasks**  
+- Learning more about **infrastructure and virtualization**  
+- Growing as an **IT professional** who understands both systems and automation  
 
 ---
 
