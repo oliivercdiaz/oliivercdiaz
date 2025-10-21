@@ -1,48 +1,51 @@
 <h1 align="center">👋 Hi, I'm Oliver Corral Díaz</h1>
-<h3 align="center">IT Specialist | Network & Systems Administration | Always learning and growing</h3>
+<h3 align="center">IT & Network Specialist | ASIR Graduate | Always learning something new</h3>
 
 ---
 
 ### 💡 About Me
-I’m a **System and Network Administrator (ASIR graduate)** with experience in IT infrastructure, virtualization, and user support.  
-I’m not the best programmer (yet 😄), but I love learning, improving, and creating tools that make work easier.
-
-💼 Currently working as a **Helpdesk Agent at Irium**  
-🌍 Based in **Barcelona, Spain**  
-🎓 Graduated in **Administration of Computer Systems and Networks (ASIR)**  
-🧠 Interested in **Automation, Cybersecurity, and Cloud technologies**
+I’m an **IT technician and system administrator (ASIR)** who enjoys learning, testing, and creating small tools to make things easier.  
+I’ve worked with **Linux, Windows, VMware, and Active Directory**, and I’m getting deeper into **Python automation** and **Raspberry Pi projects**.  
+I like solving problems, understanding how things work, and improving them a bit every day.
 
 ---
 
-### 🧰 Technical Skills
-- 🐧 **Linux / Windows Server Administration**  
-- 🧩 **VMware, Active Directory, DNS, DHCP**  
-- 🔐 **Network Management & Security**  
-- 🐳 **Docker, Virtualization & Containers**  
-- 🐍 **Python (Intermediate)**  
-- 💾 **MySQL / Databases**  
-- 🌐 **HTML, PHP (Intermediate)**  
+### 🧰 Skills
+- 💻 **Operating Systems:** Linux, Windows Server  
+- 🧩 **Networking & Virtualization:** VMware, Active Directory, DNS, DHCP  
+- 🐳 **Containers:** Docker (Intermediate)  
+- 🐍 **Programming:** Python (Intermediate), PHP (Basic), HTML (Basic)  
+- 💾 **Databases:** MySQL, SQL basics  
+- ⚙️ **Monitoring & Automation:** Bash scripting, Raspberry Pi, APIs
 
 ---
 
-### ⚙️ What I Like Doing
-- Solving technical issues and making systems run smoother  
-- Learning new technologies and experimenting with automation  
-- Working with Raspberry Pi projects and IT monitoring tools  
-- Helping teams with IT support and infrastructure improvements  
+### 🚀 Current Focus
+- Learning more about **automation** with Python  
+- Building simple but useful projects  
+- Improving my coding and system integration skills  
+- Working on fun ideas that actually help me in my daily IT work 😅  
 
 ---
 
 ### 🧩 Highlighted Projects
-| 🧠 Project | 🔍 Description | 🧰 Tech |
-|-------------|----------------|----------|
-| [Raspberry Monitor](#) | Script to monitor Raspberry Pi performance (CPU, temperature, uptime). | Python, Bash |
-| [WeatherBot](#) | Telegram bot to fetch real-time weather using APIs. | Python, API |
-| [Personal Portfolio](#) | Personal portfolio to showcase my work and learning journey. | HTML, CSS, JS |
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [Raspberry Monitor Bot](https://github.com/oliivercdiaz/raspberry-monitor-bot) | Telegram bot that shows Raspberry Pi system stats directly in chat. | Python, Raspberry Pi, Automation |
+| [Raspberry Monitor (CLI)](https://github.com/oliivercdiaz/raspberry-monitor) | Terminal tool to check CPU, RAM, disk and uptime. | Python, Linux |
+| (More projects coming soon...) | Learning and experimenting one step at a time. | 💻 |
 
 ---
 
-### 📫 Connect With Me
+### 🧠 Learning Journey
+I started in IT through **ASIR (Administración de Sistemas Informáticos y Redes)**,  
+and I’ve been learning continuously through work and side projects.  
+I’m not the best programmer (yet 😄), but I really enjoy improving and figuring things out on my own.
+
+---
+
+### 📫 Contact Me
 <p align="center">
   <a href="mailto:9olivercdiaz8@gmail.com"><img src="https://img.shields.io/badge/Email-9olivercdiaz8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/oliver"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -59,5 +62,5 @@ I’m not the best programmer (yet 😄), but I love learning, improving, and cr
 
 ---
 
-> 🧠 *“The expert in anything was once a beginner.”*  
+> 🧠 *"The expert in anything was once a beginner."*  
 > — Helen Hayes
