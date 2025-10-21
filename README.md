@@ -48,7 +48,7 @@ I’m not the best programmer (yet 😄), but I really enjoy improving and figur
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:9olivercdiaz8@gmail.com"><img src="https://img.shields.io/badge/Email-9olivercdiaz8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/oliver"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oliver-corral"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
