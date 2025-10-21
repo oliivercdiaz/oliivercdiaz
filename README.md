@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="assets/banner-github-oliver.png" alt="Oliver Corral Díaz — IT & Network Specialist" width="100%">
+</p>
+
 <h1 align="center">👋 Hi, I'm Oliver Corral Díaz</h1>
 <h3 align="center">IT & Network Specialist | ASIR Graduate | Always learning something new</h3>
 
 ---
 
 ### 💡 About Me
-I’m an **IT technician and system administrator (ASIR)** who enjoys learning, testing, and creating small tools to make things easier.  
-I’ve worked with **Linux, Windows, VMware, and Active Directory**, and I’m getting deeper into **Python automation** and **Raspberry Pi projects**.  
+I’m an **IT technician and system administrator (ASIR)** who enjoys learning, testing, and creating small tools that make work easier.  
+I’ve worked with **Linux, Windows, VMware, and Active Directory**, and I’m now focusing on **Python automation** and **Raspberry Pi projects**.  
 I like solving problems, understanding how things work, and improving them a bit every day.
 
 ---
@@ -48,7 +52,7 @@ I’m not the best programmer (yet 😄), but I really enjoy improving and figur
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:9olivercdiaz8@gmail.com"><img src="https://img.shields.io/badge/Email-9olivercdiaz8%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/oliver-corral"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oliver-corral"><img src="https://img.shields.io/badge/LinkedIn-Oliver%20Corral%20Díaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
