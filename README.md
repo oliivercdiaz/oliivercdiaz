@@ -38,6 +38,11 @@ I love learning new things and turning complex tasks into simple, automated solu
 > creates `.strm` files, updates metadata, and integrates **TMDb** posters and synopses.  
 > Designed for **automation**, **simplicity**, and seamless integration with **Raspberry Pi** or any self-hosted environment.
 
+#### 🌍 [WireGuard Control Bot](https://github.com/oliivercdiaz/WireGuardControlBot)
+> A full automation solution for managing **WireGuard VPN** through **Telegram and Docker**.  
+> Provides **real-time monitoring, Cloudflare DNS updates, uptime alerts**, and 24/7 auto-healing.  
+> Built for **maximum stability and performance**, optimized for **fiber (Movistar)** and remote control of Raspberry Pi servers.
+
 *(More projects on the way — I like to experiment, learn, and improve with each one.)*
 
 ---
