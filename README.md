@@ -33,9 +33,10 @@ I love learning new things and turning complex tasks into simple, automated solu
 > A Telegram bot that reports real-time system stats (CPU, RAM, disk, uptime, and more) from any Linux device.  
 > Combines **Python, automation, and networking** — created to make monitoring servers and Raspberry Pis easier.
 
-#### 💻 [Raspberry Monitor (CLI)](https://github.com/oliivercdiaz/raspberry-monitor)
-> A lightweight terminal tool to check CPU temperature, usage, memory, and uptime.  
-> Built with pure Python — simple, fast, and dependency-free.
+#### 🎬 [Emby AutoSync Bot](https://github.com/oliivercdiaz/emby-autosync-bot)
+> A smart Telegram bot that automates **Emby** library management —  
+> creates `.strm` files, updates metadata, and integrates **TMDb** posters and synopses.  
+> Designed for **automation**, **simplicity**, and seamless integration with **Raspberry Pi** or any self-hosted environment.
 
 *(More projects on the way — I like to experiment, learn, and improve with each one.)*
 
